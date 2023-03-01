@@ -5,7 +5,7 @@ alert(admin);
 
 // task #2
 const ourPlanetName = "Earth";
-let currentUserName = "";
+const currentUserName = "Anna";
 
 // task #3
 
